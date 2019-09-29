@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/QueueStore/vendor/composer" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/fig/http-message-util" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/slim/slim" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/slim/psr7" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/jeremeamia/superclosure" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/QueueStore/vendor/phpdocumentor/reflection-common" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/QueueStore/vendor/autoload.php" phpunit_phar_path="" />
+    </phpunit_settings>
+  </component>
+</project>
